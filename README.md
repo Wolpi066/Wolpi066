@@ -25,4 +25,4 @@ Mostly coursework from my programming degree, which I finish in December 2026: A
 
 ### More
 
-[Vixit Labs](https://vixit-labs.vercel.app), my independent studio · [LinkedIn](https://linkedin.com/in/emilianovolpino)
+[Portfolio](https://wolpi066.github.io/portfolio-volpino/) · [Vixit Labs](https://vixit-labs.vercel.app), my independent studio · [LinkedIn](https://linkedin.com/in/emilianovolpino)
