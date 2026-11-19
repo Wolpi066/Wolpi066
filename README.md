@@ -9,7 +9,7 @@ I build by directing AI coding agents. Deciding what to build and what not to, s
 Most of my real work lives in private repos, because it's client code or has business data in it. I'm happy to walk through any of it on a call.
 
 - **Point of sale and e-commerce for a wholesale appliance distributor** with four stores. The counter and the website sell the same stock, with retail and wholesale pricing, reservations and online payments. Live since May 2026. [distribuidoraharrys.com.ar](https://distribuidoraharrys.com.ar)
-- **ElectroQuick**, the sales system for my family's appliance business. It collects supplier offers from their websites and WhatsApp channels, applies the pricing rules the business used to apply by hand, and publishes a storefront and an Android back-office app. Live since October 2026. [Storefront](https://electroquick.vixit.workers.dev)
+- **ElectroQuick**, the sales system for my family's appliance business. It collects supplier offers from their websites and WhatsApp channels, applies the pricing rules I used to apply by hand for years, and publishes a storefront and an Android back-office app. Live since October 2026. [Storefront](https://electroquick.vixit.workers.dev)
 - **IT/DECK**, my own study app for IT certifications: 12,050 questions with explanations, live on the web and in closed testing on Google Play. [it-deck.pages.dev](https://it-deck.pages.dev)
 
 ### How I work
